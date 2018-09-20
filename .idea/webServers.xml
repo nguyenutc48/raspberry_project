@@ -2,16 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7d1314f9-97a9-46c0-854d-e7eec2548da6" name="mypi" url="http://192.168.43.96">
-        <fileTransfer host="192.168.43.96" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="46c12b69-6858-4f19-b039-a7cef51ea871" name="b19" url="http://107.117.216.128">
-        <fileTransfer host="107.117.216.128" port="22" accessType="SFTP">
+      <webServer id="b3412d22-3fca-4d17-98d9-82374a964e41" name="192.168.0.122" url="http://192.168.0.122">
+        <fileTransfer host="192.168.0.122" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

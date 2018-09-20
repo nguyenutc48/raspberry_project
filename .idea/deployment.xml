@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="mypi" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.0.122" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="b19">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/pi/nguyenproject" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="mypi">
+      <paths name="192.168.0.122">
         <serverdata>
           <mappings>
             <mapping deploy="/home/pi/nguyenproject" local="$PROJECT_DIR$" web="/" />

@@ -22,6 +22,8 @@ i_trayinput = 0
 ip_address = '107.114.184.180'
 url_true = 'http://'+ip_address+'/api/line/true'
 url_false = 'http://'+ip_address+'/api/line/false'
+urlsmd_true = 'http://'+ip_address+'/api/line/true'
+urlsmd_false = 'http://'+ip_address+'/api/line/false'
 
 
 
